@@ -1,4 +1,4 @@
-SudokuSolver
+Sudoku Solver
 ============
 
-For solving any sudoku puzzle.
+Application written in C++ for solving any sudoku puzzle.
